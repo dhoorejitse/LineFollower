@@ -1,6 +1,6 @@
 # LineFollower
 
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
+Mijn LineFollower ...
 
 ![A description of my image](images/empty.png)
 
