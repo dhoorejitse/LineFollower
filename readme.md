@@ -1,25 +1,23 @@
 # LineFollower
 
-Mijn LineFollower ...
-
 ![A description of my image](images/empty.png)
 
   
 ## specifications
 
-microcontroller:
+microcontroller: NodeMCU ESP32 WROOM 32
 
-motors: 
+motors: Aslong JGA12-N20-30 6V
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: 
 
-batteries:
+batteries: 2x18650
 
-wireless communication:
+wireless communication: CP2102 (μC)
 
-distance sensor - motors:
+distance sensor - motors: ~10CM
 
 weight:
 
