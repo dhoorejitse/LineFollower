@@ -1,5 +1,10 @@
 # Gebruiksaanwijzing
 
+### gebruiken van esp32 in arduino IDE
+esp library intalleren
+boards toevoegen in preferences
+CP2102 drivers installeren
+
 ### opladen / vervangen batterijen
 uitleg over het opladen of vervangen van de batterijen
 
