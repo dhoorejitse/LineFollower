@@ -8,7 +8,7 @@ Bij een correcte werking knippert de RGB-led achtereenvolgens rood, groen en bla
 https://github.com/user-attachments/assets/0f00047d-495a-4bb4-b6ac-76eb2669470c
 
 ## Schema
-test
+![A description of my image](media/images/blinkpocschema.png)
 
 ## Stappenplan
 test
