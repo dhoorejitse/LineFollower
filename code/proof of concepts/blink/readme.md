@@ -1,3 +1,12 @@
-# Blink proof of concept
+# Blink - PoC
+uitleg:
 
-Een minimaal programma blink lijkt misschien te simpel, maar hiermee kunnen een groot aantal zaken geverifieerd worden: compilen en uploaden van een programma naar de microcontroller lukt en de klok frequentie van de microcontroller klopt
+video
+
+## Schema
+test
+
+## Stappenplan
+test
+
+
