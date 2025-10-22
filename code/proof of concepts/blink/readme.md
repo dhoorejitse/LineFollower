@@ -5,7 +5,7 @@ Deze PoC vererifieerd de werking van volgende zaken:
 
 Bij een correcte werking knippert de RGB-led achtereenvolgens rood, groen en blauw, telkens 1 seconde aan en 1 seconde uit, waarna de cyclus zich herhaalt. Bij een opstart of reset van de microcontroller knippert de led 3 keer kortstondig wit.
 
-video
+![A description of my video](media/videos/blinkpoc.mp4)
 
 ## Schema
 test
