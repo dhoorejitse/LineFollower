@@ -8,7 +8,7 @@ Bij een correcte werking zal eerst motor 1 traploos versnellen van stilstand tot
 https://github.com/user-attachments/assets/9430dffd-f219-440d-9be8-ca7bf7144678
 
 ## Schema
-<img src="../../../media/images/hbridgepocschema.png" alt="Schema" width="400"/>
+<img src="../../../media/images/hbridgepocschema.png" alt="Schema" width="800"/>
 
 ## Stappenplan
 - Sluit de componenten correct aan volgens bovenstaande schema
