@@ -5,10 +5,10 @@ Deze PoC vererifieert de werking van volgende zaken:
 
 Bij een correcte werking zal eerst motor 1 traploos versnellen van stilstand tot zijn maximum snelheid, en vervolgens terug vertragen tot stilstand. Motor 2 herhaald deze werking.
 
-https://github.com/user-attachments/assets/0f00047d-495a-4bb4-b6ac-76eb2669470c
+https://github.com/user-attachments/assets/9430dffd-f219-440d-9be8-ca7bf7144678
 
 ## Schema
-<img src="../../../media/images/blinkpocschema.png" alt="Schema" width="400"/>
+<img src="../../../media/images/hbridgepocschema.png" alt="Schema" width="400"/>
 
 ## Stappenplan
 - Sluit de componenten correct aan volgens bovenstaande schema
