@@ -1,5 +1,5 @@
 # Blink - PoC
-Deze PoC vererifieerd de werking van volgende zaken:
+Deze PoC vererifieert de werking van volgende zaken:
 - compilen en uploaden van een programma naar de microcontroller lukt
 - de klok frequentie van de microcontroller klopt
 
@@ -8,9 +8,11 @@ Bij een correcte werking knippert de RGB-led achtereenvolgens rood, groen en bla
 https://github.com/user-attachments/assets/0f00047d-495a-4bb4-b6ac-76eb2669470c
 
 ## Schema
-![A description of my image](media/images/blinkpocschema.png)
+<img src="../../../media/images/blinkpocschema.png" alt="Schema" width="400"/>
 
 ## Stappenplan
-test
-
+- Sluit RGB led samen met weerstanden correct aan op de microcontroller volgens bovenstaande schema
+- Verbind de microcontroller met de pc
+- Verify/Upload de code naar de mictrocontroller
+- Verifieer de werking door te vergelijken met bovenstaande video
 
