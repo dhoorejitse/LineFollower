@@ -5,13 +5,13 @@
   
 ## specifications
 
-microcontroller: NodeMCU ESP32 WROOM 32
+microcontroller: ESP32 NodeMCU Dev Board
 
 motors: Aslong JGA12-N20-30 6V
 
-h-bridge: DRV8833
+h-bridge: DRV8833 H-Bridge Module
 
-sensors: 
+sensors: HY-S301
 
 batteries: 2x18650
 
