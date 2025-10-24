@@ -3,7 +3,7 @@ Deze PoC vererifieert de werking van volgende zaken:
 - 2 motoren kunnen onafhankelijk van elkaar kunnen draaien
 - motoren zijn (traploos) regelbaar in snelheid en draairichting
 
-Bij een correcte werking zal eerst motor 1 traploos versnellen van stilstand tot zijn maximum snelheid, en vervolgens terug vertragen tot stilstand. Motor 2 herhaald deze werking.
+Bij een correcte werking zal eerst motor 1 traploos versnellen van stilstand tot zijn maximum snelheid, en vervolgens terug vertragen in de andere richting tot stilstand. Motor 2 herhaald deze werking.
 
 https://github.com/user-attachments/assets/9430dffd-f219-440d-9be8-ca7bf7144678
 
