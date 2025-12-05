@@ -11,8 +11,7 @@
 | 06 | Batterij Houder             | 2 Slot 18650 Houder                                                       | Nieuw | € 1.50 | 1 | € 1.50 |
 | 07 | Prototype Board             | Dual Sided 90x70mm Board                                                  | Nieuw | € 0.50 | 1 | € 0.50 |
 | 08 | Pololu Wiel 40x7mm          | Siliconen Wielen - 3mm D-uitgaande as                                     | Nieuw | € 2.50 | 2 | € 5.00 |
-| 09 | Moer                        |                                                                           | Recup |        | 2 |        |
-| 10 | Bout                        |                                                                           | Recup |        | 2 |        |
+| 10 | LEGO blokje                 | Kleine lego blokjes gebruikt als steun vooraan                            | Recup |        | 2 |        |
 | 11 | LED                         |                                                                           | Recup |        | 1 |        |
 | 12 | Knop                        |                                                                           | Recup |        | 1 |        |
 | 13 | Draad                       | 22AWG                                                                     | Recup |        | x |        |
