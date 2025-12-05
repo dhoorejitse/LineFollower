@@ -1,9 +1,9 @@
 # Gebruiksaanwijzing
 
 ### gebruiken van esp32 in arduino IDE
-esp library intalleren
-boards toevoegen in preferences
-CP2102 drivers installeren
+* esp library intalleren
+* boards toevoegen in preferences
+* CP2102 drivers installeren
 
 ### opladen / vervangen batterijen
 Het opladen van de batterijen gebreurd met een speciale batterijoplader die gemaakt is op de 18650 batterijen veillig en correct op te laden. Vervang de batterijen door de lege batterijen uit de houder te halen en vervang deze met opgeladen batterijen
