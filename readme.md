@@ -19,7 +19,7 @@ wireless communication: CP2102 (μC)
 
 distance sensor - motors: ~10CM
 
-weight:
+weight: 185g
 
-speed: 
+speed: 0.5m/s
 
