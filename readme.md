@@ -1,6 +1,6 @@
 # LineFollower
 
-![A description of my image](media/images/lineFollower.png)
+<img src="../../../media/images/lineFollower.png" alt="lineFollower" width="500"/>
 
   
 ## specifications
