@@ -1,6 +1,6 @@
 # LineFollower
 
-<img src="../../../media/images/lineFollower.png" alt="lineFollower" width="500"/>
+<img src="../../../media/images/lineFollower.png" alt="lineFollower" width="200"/>
 
   
 ## specifications
