@@ -17,7 +17,7 @@ batteries: 2x18650
 
 wireless communication: CP2102 (μC)
 
-distance sensor - motors: ~10CM
+distance sensor - motors: 9CM
 
 weight: 185g
 
