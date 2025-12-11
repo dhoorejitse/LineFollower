@@ -1,6 +1,6 @@
 # LineFollower
 
-![A description of my image](media/images/empty.png)
+![A description of my image](media/images/lineFollower.png)
 
   
 ## specifications
