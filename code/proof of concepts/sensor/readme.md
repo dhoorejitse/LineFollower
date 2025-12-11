@@ -8,7 +8,7 @@ Bij een correcte werking zal de sensor een hoge waarde geven bij lichte kleuren 
 https://github.com/user-attachments/assets/09217cbb-010d-4b2e-adb0-6ba14c347263
 
 ## Schema
-<img src="../../../media/images/sensorpocschema.png" alt="Schema" width="800"/>
+<img src="../../../media/images/sensorschema.png" alt="Schema" width="800"/>
 
 ## Stappenplan
 - Sluit de componenten correct aan volgens bovenstaande schema
