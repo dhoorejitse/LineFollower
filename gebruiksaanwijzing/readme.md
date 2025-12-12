@@ -11,7 +11,7 @@ Het opladen van de batterijen gebreurd met een speciale batterijoplader die gema
 ### draadloze communicatie
 #### verbinding maken
 zorg dat de robot aanstaat (rgb led is rood/groen). Verbind vervolgens uw pc met bluetooth device "ESP32_BT_DJ". Maak vervolgens een seriele verbinding in PuTTy:
-* Serial line: Dit is de 2de bluetooth COM poort in de device manager
+* Serial line: Gebruik de 2de bluetooth COM poort in de device manager
 * Speed: 115200
 * Connection type: Serial
 
